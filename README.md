@@ -5,7 +5,7 @@
 
 
 由于iOS9增强了企业版开发者证书的验证规则，因此iOS9需要用户手动信任企业证书，才能正常使用。默认情况下，打开企业证书打包的app是这样的情况。 
-
+![snapshot](https://github.com/626600815/anzhuangqiyeban/blob/master/img/1.png)
 
 企业证书验证步骤介绍
 
@@ -16,16 +16,17 @@
 设置步骤
 
 打开“设置” 
+![snapshot](https://github.com/626600815/anzhuangqiyeban/blob/master/img/2.png)
+
 设置 
 找到“通用”－“描述文件” 
+![snapshot](https://github.com/626600815/anzhuangqiyeban/blob/master/img/3.png)
 通用－描述文件
 选择对应的企业证书，如以下企业证书： 
-
-
-
+![snapshot](https://github.com/626600815/anzhuangqiyeban/blob/master/img/4.png)
 
 
 信用此证书 
- 
+![snapshot](https://github.com/626600815/anzhuangqiyeban/blob/master/img/5.png)
 
 重新打开
